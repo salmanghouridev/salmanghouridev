@@ -18,7 +18,7 @@ Hey My name is Salman Ghouri
 
 - 🌍 Participate in the [Hactoberfest 2022](https://hacktoberfest.com/)
  -->
-- 📫 How to reach me **davidmramos30@gmail.com**
+- 📫 How to reach me **salmanghouridev@gmail.com**
 
 <!-- CONTACTO -->
 <!-- <h3 align="left">Connect with me:</h3>
