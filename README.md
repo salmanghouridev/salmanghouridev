@@ -1,6 +1,6 @@
 # Hi there, I'm Salman Ghouri 👋
 
-I'm a passionate software developer who loves working on exciting projects and learning new technologies. Feel free to reach out to me on any of my social platforms!
+I'm a passionate Open Source software developer who loves working on exciting projects and learning new technologies. Feel free to reach out to me on any of my social platforms!
 
 ### 📊 Language Percentages
 
