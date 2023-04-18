@@ -2,9 +2,9 @@
 
 I'm a passionate software developer who loves working on exciting projects and learning new technologies. Feel free to reach out to me on any of my social platforms!
 
-## 📈 My GitHub Stats
+### 📊 Language Percentages
 
-![Salmanghouridev's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanghouridev&show_icons=true&theme=tokyonight)
+[![Languages Usage Percentage](https://github-readme-stats.vercel.app/api/top-langs/?username=salmanghouridev&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/salmanghouridev/github-readme-stats)
 
 ## 🔥 My Streaks
 
