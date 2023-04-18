@@ -39,3 +39,5 @@ _For more of my projects, visit [my repositories](https://github.com/salmanghour
 - 🌱 I’m currently learning **[MERN STACK]**
 - 📫 How to reach me: **[Email](mailto:hello@salmanghouri.com)**
 - ⚡ Fun fact: **I love Playing Games & Code!**
+
+#opensource #mernstack #salmanghouridev #salmanghouri #learninpublic #codelover #learnsomenew #codeismylive
