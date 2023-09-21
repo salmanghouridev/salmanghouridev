@@ -12,8 +12,9 @@ I'm a passionate Open Source software developer who loves working on exciting pr
 ## Link: https://tailwindcomponents.com/u/salmanghouridev
 ## 🔥 My Streaks
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev&theme=tokyonight)
-
+<div style="text-align: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev" alt="SalmanWaseemGhouri" />
+</div>
 ## 💻 Technologies & Tools
 
 To see the languages I use in my projects, please visit each repository and click on the colored bar below the repository description. This will show you the Language Breakdown, which displays the percentage of each language used in the project.
