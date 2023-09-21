@@ -14,9 +14,7 @@ Explore my curated collection of Tailwind CSS components on [TailwindComponents.
 
 ## 🔥 My Streaks
 
-<div style="text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev&theme=tokyonight" alt="SalmanWaseemGhouri" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev&theme=tokyonight)
 
 ## 💻 Technologies & Tools
 
