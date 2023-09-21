@@ -16,6 +16,10 @@ Explore my curated collection of Tailwind CSS components on [TailwindComponents.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev&theme=tokyonight)
 
+## 🌟 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salmanghouridev&show_icons=true&theme=tokyonight)
+
 ## 💻 Technologies & Tools
 
 To see the programming languages I use in my projects, please visit each repository and click on the colored bar below the repository description. This will display the Language Breakdown, showcasing the percentage of each language used in the project.
@@ -39,7 +43,7 @@ For more of my projects, visit [my repositories](https://github.com/salmanghouri
 
 - 🔭 I’m currently working on **[AICONVERTER](https://github.com/salmanghouridev/aiconverter)**.
 - 🌱 I’m currently learning **[MERN STACK]**.
-- 📫 Reach out to me via **[Email](mailto:hello@salmanghouri.com)**.
-- ⚡ Fun fact: I love Playing Games & Code!
+- ⭐ Fun fact: I have **[GitHub Stars]** on my repositories!
+- 📧 Reach out to me via **[Email](mailto:hello@salmanghouri.com)**.
 
 #opensource #mernstack #salmanghouridev #salmanghouri #learninpublic #codelover #learnsomenew #codeismylife
