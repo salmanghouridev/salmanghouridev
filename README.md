@@ -1,4 +1,4 @@
-# Hi there, I'm Salman Ghouri! 👋
+# Hi there, I'm Salman Ghori! 👋
 
 I'm a passionate Open Source software developer who thrives on exciting projects and continuously explores new technologies. Feel free to connect with me on any of my social platforms!
 
