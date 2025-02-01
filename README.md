@@ -1,7 +1,18 @@
 # Hi there, I'm Salman Ghori! 👋
 
-I'm a passionate Open Source software developer who thrives on exciting projects and continuously explores new technologies. Feel free to connect with me on any of my social platforms!
+🚀 AI & Computer Vision Enthusiast | Full Stack Software Engineer
 
+🔹 2.5+ years of experience in building scalable web applications & APIs
+🔹 Expertise in Next.js (React.js), Flask, Django, Python, and Node.js
+🔹 Developed AI-powered chatbots with NLP & automation tools
+🔹 Passionate about computer vision & machine learning
+🔹 Creator of "InsightEye" – a real-time eyesight testing system using computer vision & NLP (🏆 2nd place in FYP competition)
+
+💡 Always exploring AI innovations & open to collaborations!
+
+📌 GitHub Repos Coming Soon!
+
+Let me know if you want any tweaks! 🚀
 ### 📊 Language Percentages
 
 <p align="left">
