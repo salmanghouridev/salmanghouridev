@@ -36,7 +36,7 @@ Here's a revised and organized version of your project list, correctly categoriz
 
 | Project                  | Description                                                                                              | Tech Stack                                         | Link                                                                              |
 |--------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------------------------|
-| Timeloo                  | Your Life Timeloop Manager like Jarvis                                                                   | Next.js, FastAPI, OpenAI, LangChain, Zustand, PostgreSQL | [Repo](https://github.com/salmanghouridev/timeloo)                                |
+| Timeloo                  | Your Life Timeloop Manager like Jarvis                                                                   | Next.js, FastAPI, OpenAI, LangChain, Zustand, PostgreSQL | *Private/On Request*                                 |
 | Custom WordPress Plugins | Suite: OrderTracking, ReturnSystem, Affiliate, etc.                                                      | PHP, WordPress, REST API                           | [Repo](https://github.com/salmanghouridev/customwordpressplugins)                 |
 | Affiliate Marketing Hybrid Platform | Next.js frontend, WordPress plugin backend, Flask for AI. AWS/DigitalOcean infrastructure.      | Next.js, WordPress, Flask, AWS, DigitalOcean       | *Private/On Request*                                                              |
 
