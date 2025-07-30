@@ -1,7 +1,3 @@
-Great! Here’s a professional, visually appealing, and “senior developer” README template—tailored to highlight your open-source mindset, technical skills, and leadership qualities. You’ll stand out to recruiters, collaborators, and the dev community.
-
----
-
 # Salman Ghori
 
 **AI & Computer Vision | Senior Full Stack Developer | Open Source Advocate**
