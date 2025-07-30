@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td><b>Email</b></td>
-    <td>salmanghouridev@gmail.com</td>
+    <td>salmanghoribuss@gmail.com</td>
   </tr>
    <tr>
     <td><b>Specialization</b></td>
@@ -75,7 +75,7 @@ Let me know if you'd like this formatted Markdown to be updated in your README.m
 ---
 
 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghouridev@gmail.com | [Portfolio](http://www.salmanghori.com)
+[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghoribuss@gmail.com | [Portfolio](http://www.salmanghori.com)
 
 ---
 
