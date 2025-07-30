@@ -21,8 +21,6 @@
 
 I am a Full Stack & ML/AI Engineer focused on building scalable, intelligent solutions. My expertise spans AI, automation, and modern web development. I thrive in fast-paced environments and love contributing to open source and impactful projects.
 
----
-Here's a revised and organized version of your project list, correctly categorizing Insight Eye as your FYP project and separating the other projects into "Production Level" and "Basic & Personal Projects" as you intended:
 
 ---
 
