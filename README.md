@@ -26,7 +26,38 @@ Here’s a revised, visually appealing, and professional README.md for your GitH
 I am a Full Stack & ML/AI Engineer focused on building scalable, intelligent solutions. My expertise spans AI, automation, and modern web development. I thrive in fast-paced environments and love contributing to open source and impactful projects.
 
 ---
+Here's a revised and organized version of your project list, correctly categorizing Insight Eye as your FYP project and separating the other projects into "Production Level" and "Basic & Personal Projects" as you intended:
 
+---
+
+## 🚀 Featured Projects
+
+### 🏆 Production Level
+
+| Project                  | Description                                                                                              | Tech Stack                                         | Link                                                                              |
+|--------------------------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----------------------------------------------------------------------------------|
+| Timeloo                  | Your Life Timeloop Manager like Jarvis                                                                   | Next.js, FastAPI, OpenAI, LangChain, Zustand, PostgreSQL | [Repo](https://github.com/salmanghouridev/timeloo)                                |
+| Custom WordPress Plugins | Suite: OrderTracking, ReturnSystem, Affiliate, etc.                                                      | PHP, WordPress, REST API                           | [Repo](https://github.com/salmanghouridev/customwordpressplugins)                 |
+| Affiliate Marketing Hybrid Platform | Next.js frontend, WordPress plugin backend, Flask for AI. AWS/DigitalOcean infrastructure.      | Next.js, WordPress, Flask, AWS, DigitalOcean       | *Private/On Request*                                                              |
+
+### 🎓 FYP Project
+
+| Project       | Description                                                              | Tech Stack             | Link                        |
+|---------------|--------------------------------------------------------------------------|------------------------|-----------------------------|
+| Insight Eye   | Computer Vision-Based Real-Time Eyesight Assistance using NLP.<br>2nd place in FYP Day | Python, OpenCV, NLP, Flask | *Available upon request*    |
+
+### 🛠️ Basic & Personal Projects
+
+| Project                       | Description                                                   | Tech Stack                      | Link                       |
+|-------------------------------|---------------------------------------------------------------|---------------------------------|----------------------------|
+| Asana Clone                   | Project management platform powered by AI                     | React, Node.js, AI, PostgreSQL  | *Private/On Request*       |
+| AI Article Generator          | Generate 100+ articles via GPT-4/Laravel, post to WordPress   | Laravel, OpenAI API, WordPress  | *Private/On Request*       |
+| Tic-Tac-Toe AI                | Minimax-based AI agent for Tic-Tac-Toe                        | Python                          | *Available upon request*   |
+| Rule-Based AI Chatbot         | Simple web chatbot with LangChain for efficiency              | LangChain, Python               | *Available upon request*   |
+
+---
+
+Let me know if you'd like this formatted Markdown to be updated in your README.md, or if you want any further edits!
 ---
 
 ## 🛠️ Technologies
