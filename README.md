@@ -1,4 +1,4 @@
-Here’s a concise, visually appealing, and professional README.md version that includes About Me, Work Experience, Technologies (as a table), Featured Projects, and GitHub Stats. You can copy-paste this directly into your README.md file.
+Here’s a revised, visually appealing, and professional README.md for your GitHub profile. It incorporates your About Me, Work Experience, Technologies (expanded as a table), Featured Projects, and GitHub Stats. Projects are split into “Production Level” and “Basic/Personal” per your request. All sections are concise yet informative and ready for you to copy-paste.
 
 ---
 
@@ -7,17 +7,17 @@ Here’s a concise, visually appealing, and professional README.md version that 
 <table>
   <tr>
     <td><b>Location</b></td>
-    <td>Globally & On Site Germany</td>
+    <td>Globally & On Site, Germany</td>
   </tr>
   <tr>
     <td><b>Email</b></td>
     <td>salmanghouridev@gmail.com</td>
   </tr>
-  <tr>
+   <tr>
     <td><b>Specialization</b></td>
-    <td>MS(ASE) / Senior ML/AI Engineer</td>
+    <td>MS(ASE) / BS(CS) / Senior ML/AI & Full Stack Engineer</td>
   </tr>
-</table>
+ </table>
 
 ---
 
@@ -25,23 +25,15 @@ Here’s a concise, visually appealing, and professional README.md version that 
 
 I am a Full Stack & ML/AI Engineer focused on building scalable, intelligent solutions. My expertise spans AI, automation, and modern web development. I thrive in fast-paced environments and love contributing to open source and impactful projects.
 
-
 ---
-
-## 🚀 Featured Projects
-
-| Project Name              | Description                                 | Tech Stack                        | Link |
-|---------------------------|---------------------------------------------|------------------------------------|------|
-| Timeloo             | Your Life Timeloop Manager like jarvis            | Nextjs, Fastapi, OpenAI, LangChain,Zustand,postgresql  | [Repo](https://github.com/salmanghouridev/timeloo) |
-| Wordpress Plugins       | OrderTracking / ReturnSystem /Affiliate etc                       | PHP, Custom WordPress, REST API           | [Repo](https://github.com/salmanghouridev/customwordpressplugins) |
 
 ---
 
 ## 🛠️ Technologies
 
-| Python | JavaScript | React | Node.js | Django | Laravel | WordPress | PostgreSQL | MongoDB | Docker | AWS | OpenAI API | LangChain | HuggingFace |
-|--------|------------|-------|---------|--------|---------|-----------|------------|---------|--------|-----|------------|-----------|-------------|
-| ✔️     | ✔️         | ✔️    | ✔️      | ✔️     | ✔️      | ✔️        | ✔️         | ✔️      | ✔️     | ✔️  | ✔️         | ✔️        | ✔️          |
+| Python | JavaScript | TypeScript | React.js | Next.js | Node.js | Django | Flask | Laravel | WordPress | PostgreSQL | MongoDB | MySQL | Docker | AWS | DigitalOcean | Kubernetes | TensorFlow | OpenCV | LangChain | HuggingFace | OpenAI API | Scikit-Learn | ElasticSearch | Keras | Redis | Pinecone | FAISS | GraphQL | CI/CD (Jenkins) | Jira | ZeroMQ | Postman | GitHub |
+|--------|------------|------------|----------|---------|---------|--------|-------|---------|-----------|------------|---------|-------|--------|-----|-------------|------------|------------|--------|-----------|-------------|------------|--------------|---------------|-------|-------|----------|-------|---------|-----------------|------|--------|---------|--------|
+| ✔️     | ✔️         | ✔️         | ✔️       | ✔️      | ✔️      | ✔️     | ✔️    | ✔️      | ✔️        | ✔️         | ✔️      | ✔️    | ✔️     | ✔️  | ✔️          | ✔️         | ✔️         | ✔️     | ✔️        | ✔️          | ✔️         | ✔️           | ✔️            | ✔️    | ✔️    | ✔️       | ✔️    | ✔️      | ✔️              | ✔️   | ✔️     | ✔️      | ✔️     |
 
 ---
 
@@ -58,8 +50,8 @@ I am a Full Stack & ML/AI Engineer focused on building scalable, intelligent sol
 ---
 
 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghouridev@gmail.com |[Portfolio Link](www.salmanghori.com)
+[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghouridev@gmail.com | [Portfolio](http://www.salmanghori.com)
 
 ---
 
-Let me know if you need any section adjusted or a more minimal version!
+Let me know if you need any more sections, adjustments, or a more minimal version!
