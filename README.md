@@ -1,85 +1,75 @@
-# Salman Ghori
-
-**AI & Computer Vision | Senior Full Stack Developer | Open Source Advocate**
+Here’s a concise, visually appealing, and professional README.md version that includes About Me, Work Experience, Technologies (as a table), Featured Projects, and GitHub Stats. You can copy-paste this directly into your README.md file.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salman-ghouri01/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/salmanghouridev)
-[![Email](https://img.shields.io/badge/Email-grey?&style=flat-square&logo=gmail&logoColor=red)](mailto:hello@salmanghouri.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-salmanghouri.com-%230077B5?&style=flat-square)](https://salmanghouri.com/)
+# 👋 Salman Ghori
+
+<table>
+  <tr>
+    <td><b>Location</b></td>
+    <td>Karachi, Pakistan & Chemnitz, Germany</td>
+  </tr>
+  <tr>
+    <td><b>Email</b></td>
+    <td>salmanghouridev@gmail.com</td>
+  </tr>
+  <tr>
+    <td><b>Specialization</b></td>
+    <td>MS(ASE) / ML / Gen AI Engineer</td>
+  </tr>
+</table>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💼 About Me
 
-Senior developer with 2.5+ years of hands-on experience in building scalable products, leading engineering efforts, and contributing to open-source. Passionate about AI, NLP, and computer vision—constantly exploring new tech and sharing knowledge with the community.
-
-- 🏆 **Open Source Contributor:** Actively building and maintaining public projects—always open to PRs, issues, and discussions!
-- 🛠 **Tech Stack:** Next.js, React.js, Node.js, Python, Flask, Django, Tailwind CSS
-- 🤖 **AI/ML Focus:** Developed real-time eyesight testing (InsightEye, FYP 2nd place), AI-powered chatbots, and automation tools
-- 🌱 **Lifelong Learner:** Currently diving deeper into MERN stack and advanced ML workflows
+I am a Full Stack & GenAI Engineer focused on building scalable, intelligent solutions. My expertise spans AI, automation, and modern web development. I thrive in fast-paced environments and love contributing to open source and impactful projects.
 
 ---
 
-## 🏗️ Featured Projects
+## 💼 Work Experience
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **AICONVERTER** | Web app to convert files with AI using Python/Next.js | Next.js, Python | [Repo](https://github.com/salmanghouridev/aiconverter) |
-| **RedError** | Tool for fast developer error search & community support | Next.js, Node.js | [Repo](https://github.com/salmanghouridev/RedError) |
-| **InsightEye** | Real-time eyesight testing using computer vision & NLP | Python, OpenCV, NLP | — |
-
-For more, visit [my repositories](https://github.com/salmanghouridev?tab=repositories).
+| Role                           | Company         | Period            | Key Work                                                    |
+|---------------------------------|-----------------|-------------------|-------------------------------------------------------------|
+| Gen AI Developer               | Artxpro         | 2023–2024         | Built GenAI web apps, plugins, and AI-powered tools         |
+| WP Plugin Developer            | FataniEstate    | 2022–2023         | Custom plugins & real estate solutions                      |
+| PHP Laravel Developer          | Lady Evelyn Ltd | 2020–2021         | AI-driven data processing, WP integration                   |
 
 ---
 
-## 🌟 Open Source & Community
+## 🚀 Featured Projects
 
-- **Creator:** [Tailwind CSS Components Collection](https://tailwindcomponents.com/u/salmanghouridev)
-- **Mentor:** Happy to guide junior devs and review code
-- **Collaboration:** If you’re passionate about AI or modern web, [let’s connect!](mailto:hello@salmanghouri.com)
+| Project Name              | Description                                 | Tech Stack                        | Link |
+|---------------------------|---------------------------------------------|------------------------------------|------|
+| GenAI Web App             | AI chatbots & content generation            | React, Node.js, OpenAI, LangChain  | [Repo](https://github.com/salmanghouridev/genai-webapp) |
+| Real Estate Plugin        | Real estate WP plugin                       | PHP, WordPress, REST API           | [Repo](https://github.com/salmanghouridev/fataniestate-plugin) |
+| AI SEO Automation         | SEO automation with AI                      | Python, Django, HuggingFace        | [Repo](https://github.com/salmanghouridev/ai-seo-tools) |
+
+---
+
+## 🛠️ Technologies
+
+| Python | JavaScript | React | Node.js | Django | Laravel | WordPress | PostgreSQL | MongoDB | Docker | AWS | OpenAI API | LangChain | HuggingFace |
+|--------|------------|-------|---------|--------|---------|-----------|------------|---------|--------|-----|------------|-----------|-------------|
+| ✔️     | ✔️         | ✔️    | ✔️      | ✔️     | ✔️      | ✔️        | ✔️         | ✔️      | ✔️     | ✔️  | ✔️         | ✔️        | ✔️          |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanghouridev&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev&theme=tokyonight" alt="GitHub Streak" height="130"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanghouridev&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanghouridev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanghouridev&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanghouridev&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🛠️ Toolbelt
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+**Let's connect:**  
+[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghouridev@gmail.com
 
 ---
 
-## 🌐 Find Me
-
-- [Portfolio Website](https://salmanghouri.com/)
-- [LinkedIn](https://www.linkedin.com/in/salman-ghouri01/)
-- [Twitter](https://twitter.com/salmanghouridev)
-- [Instagram](https://www.instagram.com/salmanghouridevv/)
-- [Discord](https://discord.gg/KktRnrQgAz/)
-
----
-
-> **Let’s build something amazing together!**  
-> _Reach out for open source, collaboration, or just to say hi._
-
----
-
-Would you like me to update your README.md with this version now? If you want more tweaks (e.g., highlights for remote work, speaking, or leadership), let me know!
+Let me know if you need any section adjusted or a more minimal version!
