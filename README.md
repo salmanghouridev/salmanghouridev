@@ -7,7 +7,7 @@ Here’s a concise, visually appealing, and professional README.md version that 
 <table>
   <tr>
     <td><b>Location</b></td>
-    <td>Karachi, Pakistan & Chemnitz, Germany</td>
+    <td>Globally & On Site Germany</td>
   </tr>
   <tr>
     <td><b>Email</b></td>
@@ -15,7 +15,7 @@ Here’s a concise, visually appealing, and professional README.md version that 
   </tr>
   <tr>
     <td><b>Specialization</b></td>
-    <td>MS(ASE) / ML / Gen AI Engineer</td>
+    <td>MS(ASE) / Senior ML/AI Engineer</td>
   </tr>
 </table>
 
@@ -23,17 +23,8 @@ Here’s a concise, visually appealing, and professional README.md version that 
 
 ## 🧑‍💼 About Me
 
-I am a Full Stack & GenAI Engineer focused on building scalable, intelligent solutions. My expertise spans AI, automation, and modern web development. I thrive in fast-paced environments and love contributing to open source and impactful projects.
+I am a Full Stack & ML/AI Engineer focused on building scalable, intelligent solutions. My expertise spans AI, automation, and modern web development. I thrive in fast-paced environments and love contributing to open source and impactful projects.
 
----
-
-## 💼 Work Experience
-
-| Role                           | Company         | Period            | Key Work                                                    |
-|---------------------------------|-----------------|-------------------|-------------------------------------------------------------|
-| Gen AI Developer               | Artxpro         | 2023–2024         | Built GenAI web apps, plugins, and AI-powered tools         |
-| WP Plugin Developer            | FataniEstate    | 2022–2023         | Custom plugins & real estate solutions                      |
-| PHP Laravel Developer          | Lady Evelyn Ltd | 2020–2021         | AI-driven data processing, WP integration                   |
 
 ---
 
@@ -41,9 +32,8 @@ I am a Full Stack & GenAI Engineer focused on building scalable, intelligent sol
 
 | Project Name              | Description                                 | Tech Stack                        | Link |
 |---------------------------|---------------------------------------------|------------------------------------|------|
-| GenAI Web App             | AI chatbots & content generation            | React, Node.js, OpenAI, LangChain  | [Repo](https://github.com/salmanghouridev/genai-webapp) |
-| Real Estate Plugin        | Real estate WP plugin                       | PHP, WordPress, REST API           | [Repo](https://github.com/salmanghouridev/fataniestate-plugin) |
-| AI SEO Automation         | SEO automation with AI                      | Python, Django, HuggingFace        | [Repo](https://github.com/salmanghouridev/ai-seo-tools) |
+| Timeloo             | Your Life Timeloop Manager like jarvis            | Nextjs, Fastapi, OpenAI, LangChain,Zustand,postgresql  | [Repo](https://github.com/salmanghouridev/timeloo) |
+| Wordpress Plugins       | OrderTracking / ReturnSystem /Affiliate etc                       | PHP, Custom WordPress, REST API           | [Repo](https://github.com/salmanghouridev/customwordpressplugins) |
 
 ---
 
@@ -68,7 +58,7 @@ I am a Full Stack & GenAI Engineer focused on building scalable, intelligent sol
 ---
 
 **Let's connect:**  
-[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghouridev@gmail.com
+[LinkedIn](https://www.linkedin.com/in/salmanghouridev) | salmanghouridev@gmail.com |[Portfolio Link](www.salmanghori.com)
 
 ---
 
