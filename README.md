@@ -1,7 +1,3 @@
-Here’s a revised, visually appealing, and professional README.md for your GitHub profile. It incorporates your About Me, Work Experience, Technologies (expanded as a table), Featured Projects, and GitHub Stats. Projects are split into “Production Level” and “Basic/Personal” per your request. All sections are concise yet informative and ready for you to copy-paste.
-
----
-
 # 👋 Salman Ghori
 
 <table>
