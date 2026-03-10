@@ -36,7 +36,7 @@ Let's collaborate or chat about tech—connect with me on [LinkedIn](https://www
   </tr>
   <tr>
     <td><b>Email</b></td>
-    <td>salmanghoribuss@gmail.com</td>
+    <td>salmanghouridev@gmail.com</td>
   </tr>
    <tr>
     <td><b>Specialization</b></td>
