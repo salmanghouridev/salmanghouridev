@@ -7,45 +7,21 @@ I’m a Full Stack Engineer with **2+ years of experience** building scalable we
 Currently improving my skills in **Cloud & DevOps** while learning **German (A1 → B1)** to pursue software engineering opportunities in **Germany**.
 
 ---
+## 🛠️ Tech Stack
 
-## 💻 Tech Stack
-
-**Frontend**
-- React.js
-- Next.js
-- React Native
-
-**Backend**
-- Node.js
-- Express.js
-- NestJS
-- Flask
-- Django
-
-**Databases**
-- MongoDB
-- PostgreSQL
-- MySQL
-
-**AI / Machine Learning**
-- TensorFlow
-- OpenCV
-- NLP
-- Scikit-Learn
-
-**DevOps & Cloud**
-- Docker
-- Kubernetes
-- AWS
-- DigitalOcean
-- CI/CD
-
-**Other Tools**
-- WordPress (Plugin Development)
-- Redis
-- GraphQL
-- LangChain
-- Git & GitHub
+| Category | Technologies |
+|---------|--------------|
+| **Languages** | Python, JavaScript, TypeScript, C++, C#, PHP |
+| **Frontend** | React.js, Next.js, React Native |
+| **Backend** | Node.js, Express.js, NestJS, Flask, Django, Laravel |
+| **Databases** | MongoDB, PostgreSQL, MySQL, Redis |
+| **AI / Machine Learning** | TensorFlow, OpenCV, Scikit-Learn, NLP |
+| **Cloud & DevOps** | Docker, Kubernetes, AWS, DigitalOcean, CI/CD |
+| **Search / Vector DB** | ElasticSearch, Pinecone, FAISS |
+| **AI Frameworks & Tools** | LangChain, HuggingFace, OpenAI API |
+| **CMS & Platforms** | WordPress (Plugin & Theme Development) |
+| **APIs & Architecture** | REST API, GraphQL, Microservices |
+| **Tools** | Git, GitHub, Postman, Jira, ZeroMQ |
 
 ---
 
