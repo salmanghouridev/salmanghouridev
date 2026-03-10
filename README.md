@@ -23,8 +23,8 @@ Currently improving **Cloud & DevOps** skills and learning **German (A1 → B1)*
 ---
 
 ## 🚀 Highlights
-- Built **5+ SaaS applications** serving **10k+ users**
-- Developed **custom WordPress plugins** improving performance by **30%**
+- Built **5+ MERN,SAAS applications** serving ** many users**
+- Developed **custom WordPress plugins**
 - **Insight Eye** – Computer vision eyesight assistant (**2nd place FYP**)
 
 ---
@@ -38,4 +38,4 @@ Currently improving **Cloud & DevOps** skills and learning **German (A1 → B1)*
 ## 📫 Contact
 🌐 salmanghori.com  
 💼 linkedin.com/in/salmanghouridev  
-📧 salmanghoribuss@gmail.com
+📧 salmanghouridev@gmail.com
