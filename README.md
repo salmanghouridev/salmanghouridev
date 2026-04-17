@@ -36,6 +36,6 @@ Currently improving **Cloud & DevOps** skills and learning **German (A1 → B1)*
 ---
 
 ## 📫 Contact
-🌐 salmanghori.com  
+🌐 salmanghori.dev  
 💼 linkedin.com/in/salmanghouridev  
 📧 salmanghouridev@gmail.com
