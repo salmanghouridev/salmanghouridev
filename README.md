@@ -2,27 +2,33 @@
 
 AI Reliability Engineer focused on scalable systems, backend development, and practical AI applications.
 
-I have 2+ years of experience building web products with **Node.js**, **NestJS**, **Next.js**, **Python**, and **WordPress custom plugins**. Most of my work has been around backend systems, frontend apps, ecommerce features, custom tooling, and turning product ideas into working applications.
+I have 2+ years of experience building web products with Node.js, NestJS, Next.js, Python, and WordPress custom plugins. Most of my work has been around backend systems, frontend apps, ecommerce features, custom tooling, and turning product ideas into working applications.
 
-Right now, I’m improving my **Cloud & DevOps** skills and learning **German (B1)** as I work toward software engineering roles in Germany.
+Currently learning German at B1 level and open to Working Student and internship opportunities in Germany, especially in AI infrastructure and SRE-related roles.
+Contact : salmanghouridev@gmail.com
 
-## What I’m working on
+# My Projects:
 
-- Building reliable backend and web systems
-- Learning more about distributed systems, DevOps, and ML infrastructure
-- Creating **GlimLang**, a simple programming language project focused on learning, tooling, and developer experience
-- Exploring how GlimLang can grow into docs, workflows, and AI-powered developer tools
+# My FYP (Final Year Project) Bachelor's:
+I worked as part of a 4-member team on The Smart System, a final year project for real-time eye assessment using computer vision and NLP. I contributed to the Flask backend, system integration, and application reliability. The project won 2nd place in our FYP evaluation.
+
+# GlimLang Tiny Programming Language:
+Creating Own Programming language written in python Name "Glimlang" . Right now its Tiny .Future task is to trying to Scale with Opensource Community Developer who want to contributes.
+
+# URL Shortner using Nodejs 
+I am also working on a URL shortener project using Node.js.
+
 
 ## Tech Stack
 
 | Category | Technologies |
 |---------|--------------|
 | Languages | Python, JavaScript, TypeScript, C++, C#, PHP |
-| Frontend | React.js, Next.js, React Native, Tailwind CSS |
-| Backend | Node.js, Express.js, NestJS, Flask, Django |
-| Databases | MongoDB, PostgreSQL, MySQL, Redis |
-| AI/ML | TensorFlow, OpenCV, Scikit-Learn, NLP |
-| Cloud/DevOps | Docker, Kubernetes, AWS |
+| Frontend | React.js, Next.js, Tailwind CSS |
+| Backend | Node.js, Express.js, NestJS, Flask |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| AI/ML | OpenCV, Scikit-Learn, NLP |
+| Cloud/DevOps | Docker, AWS |
 | Tools | Git, GitHub, Postman, Jira |
 
 ## Highlights
