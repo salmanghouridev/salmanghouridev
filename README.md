@@ -4,24 +4,29 @@ AI Reliability Engineer focused on scalable systems, backend development, and pr
 
 I have 2+ years of experience building web products with Node.js, NestJS, Next.js, Python, and WordPress custom plugins. Most of my work has been around backend systems, frontend apps, ecommerce features, custom tooling, and turning product ideas into working applications.
 
-Currently learning German at B1 level and open to Working Student and internship opportunities in Germany, especially in AI infrastructure and SRE-related roles.
-Contact : salmanghouridev@gmail.com
+Currently learning German at B1 level and open to Working Student and internship opportunities in Germany, especially in AI infrastructure and SRE-related roles.  
+**Contact:** salmanghouridev@gmail.com
 
-# My Projects:
+---
 
-# My FYP (Final Year Project) Bachelor's:
+## 🚀 My Projects
+
+### My FYP (Final Year Project) Bachelor's
 I worked as part of a 4-member team on The Smart System, a final year project for real-time eye assessment using computer vision and NLP. I contributed to the Flask backend, system integration, and application reliability. The project won 2nd place in our FYP evaluation.
 
-# GlimLang Tiny Programming Language:
+### GlimLang Tiny Programming Language
 Creating Own Programming language written in python Name "Glimlang" . Right now its Tiny .Future task is to trying to Scale with Opensource Community Developer who want to contributes.
 
-# URL Shortner using Nodejs 
+### URL Shortner using Nodejs
 I am also working on a URL shortener project using Node.js.
 
-# TELC German A1–B1 Sprachcoach : https://germancoach.vercel.app
+### TELC German A1–B1 Sprachcoach
+🔗 https://germancoach.vercel.app  
 Open-source German learning app (A1–B1) with vocabulary, grammar, and gamified tracking using Next.js and TypeScript.
 
-## Tech Stack
+---
+
+## 🛠 Tech Stack
 
 | Category | Technologies |
 |---------|--------------|
@@ -33,26 +38,34 @@ Open-source German learning app (A1–B1) with vocabulary, grammar, and gamified
 | Cloud/DevOps | Docker, AWS |
 | Tools | Git, GitHub, Postman, Jira |
 
-## Highlights
+---
 
-- Built multiple web applications using modern JavaScript and Python stacks
-- Developed custom WordPress plugins for ecommerce and business workflows
-- Worked on SaaS-style products, backend systems, and frontend interfaces
-- Built **Insight Eye**, a computer vision eyesight assistant project that received **2nd place** in FYP
-- Created **GlimLang**, a programming language project for learning and experimentation
+## ✨ Highlights
 
-## Current Focus
+- Built multiple web applications using modern JavaScript and Python stacks  
+- Developed custom WordPress plugins for ecommerce and business workflows  
+- Worked on SaaS-style products, backend systems, and frontend interfaces  
+- Built **Insight Eye**, a computer vision eyesight assistant project that received **2nd place** in FYP  
+- Created **GlimLang**, a programming language project for learning and experimentation  
 
-- Site Reliability Engineering and AI infrastructure
-- Cloud, containers, and scalable backend systems
-- Software engineering opportunities in Germany
+---
 
-## GitHub Stats
+## 🎯 Current Focus
+
+- Site Reliability Engineering and AI infrastructure  
+- Cloud, containers, and scalable backend systems  
+- Software engineering opportunities in Germany  
+
+---
+
+## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=salmanghouridev&show_icons=true&theme=tokyonight)
 
-## Connect
+---
 
-- Portfolio: [salmanghori.dev](https://salmanghori.dev)
-- LinkedIn: [linkedin.com/in/salmanghouridev](https://linkedin.com/in/salmanghouridev)
-- Email: salmanghouridev@gmail.com
+## 🤝 Connect
+
+- Portfolio: https://salmanghori.dev  
+- LinkedIn: https://linkedin.com/in/salmanghouridev  
+- Email: salmanghouridev@gmail.com  
