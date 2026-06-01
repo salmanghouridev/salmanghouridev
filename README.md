@@ -11,18 +11,30 @@ Currently learning German at B1 level and open to Working Student and internship
 
 ## 🚀 My Projects
 
-### My FYP (Final Year Project) Bachelor's
-I worked as part of a 4-member team on The Smart System, a final year project for real-time eye assessment using computer vision and NLP. I contributed to the Flask backend, system integration, and application reliability. The project won 2nd place in our FYP evaluation.
+### 🔬 Smart System (FYP)
+Real-time eye assessment system using computer vision and NLP. Worked on Flask backend, system integration, and reliability.  
+🏆 Achieved **2nd place** in FYP evaluation  
+**Tech:** Flask, OpenCV, NLP  
 
-### GlimLang Tiny Programming Language
-Creating Own Programming language written in python Name "Glimlang" . Right now its Tiny .Future task is to trying to Scale with Opensource Community Developer who want to contributes.
+---
 
-### URL Shortner using Nodejs
-I am also working on a URL shortener project using Node.js.
+### ⚙️ GlimLang (Tiny Programming Language)
+Creating Own Programming language written in python Name "Glimlang" . Right now its Tiny .Future task is to trying to Scale with Opensource Community Developer who want to contributes.  
+**Tech:** Python  
 
-### TELC German A1–B1 Sprachcoach
+---
+
+### 🔗 URL Shortner
+I am also working on a URL shortener project using Node.js.  
+**Tech:** Node.js  
+
+---
+
+### 🇩🇪 TELC German A1–B1 Sprachcoach
 🔗 https://germancoach.vercel.app  
-Open-source German learning app (A1–B1) with vocabulary, grammar, and gamified tracking using Next.js and TypeScript.
+Open-source German learning app (A1–B1) with vocabulary, grammar, and gamified tracking.  
+**Tech:** Next.js, TypeScript, TailwindCSS  
+
 
 ---
 
