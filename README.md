@@ -19,6 +19,8 @@ Real-time eye assessment system using computer vision and NLP. Worked on Flask b
 ---
 
 ### ⚙️ GlimLang (Tiny Programming Language)
+🔗 https://www.glimlang.org/
+🔗 [https://www.glimlang.org/](https://pypi.org/project/glimlang/)
 Creating Own Programming language written in python Name "Glimlang" . Right now its Tiny .Future task is to trying to Scale with Opensource Community Developer who want to contributes.  
 **Tech:** Python  
 
