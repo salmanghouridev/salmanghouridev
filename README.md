@@ -19,6 +19,14 @@
 </div>
 
 ---
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=salmanghouridev&style=for-the-badge&color=4ade80&label=Profile+Views)](https://github.com/salmanghouridev)
+
+</div>
+
+---
+
 
 AI Reliability Engineer focused on scalable systems, backend development, and practical AI applications.
 
