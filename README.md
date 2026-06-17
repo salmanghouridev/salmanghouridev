@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2f8e79,100:20b2aa&height=200&section=header&text=Salman%20Ghori&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Reliability%20Engineer%20%7C%20SRE&descAlignY=51&descAlign=50" width="100%"/>
@@ -18,17 +17,10 @@
 </div>
 
 ---
-<div align="center">
-
-[![Profile views](https://komarev.com/ghpvc/?username=salmanghouridev&style=for-the-badge&color=20b2aa&label=Profile+Views)](https://github.com/salmanghouridev)
-
-</div>
-
----
 
 AI Reliability Engineer focused on scalable systems, backend development, and practical AI applications.
 
-I have **2+ years** of experience building web products with **Node.js, NestJS, Next.js, Python, and WordPress custom plugins**. Most of my work has been around backend systems, frontend apps, ecommerce platforms, and SRE infrastructure.
+I have **2+ years** of experience building web products with **Node.js, NestJS, Next.js, Python, and WordPress custom plugins**. My work spans backend systems, frontend applications, ecommerce platforms, and SRE infrastructure.
 
 Currently learning German at **B1 level** and open to **Working Student and internship opportunities in Germany**, especially in AI infrastructure and SRE-related roles.
 
@@ -36,35 +28,35 @@ Currently learning German at **B1 level** and open to **Working Student and inte
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔬 Smart System (FYP) &nbsp;🏆 2nd Place</h3>
-      <p>Real-time eye assessment system using computer vision and NLP. Worked on Flask backend, system integration, and reliability.</p>
+      <h3><a href="https://github.com/salmanghouridev/insight-eye">Insight-Eye</a> &nbsp;🏆 2nd Place</h3>
+      <p>Real-time eyesight assessment system using computer vision and NLP. Contributed to Flask backend, system integration, and reliability engineering.</p>
       <img src="https://img.shields.io/badge/Flask-0d1b2a?style=flat-square&logo=flask&logoColor=20b2aa"/>
       <img src="https://img.shields.io/badge/OpenCV-0d1b2a?style=flat-square&logo=opencv&logoColor=20b2aa"/>
       <img src="https://img.shields.io/badge/NLP-0d1b2a?style=flat-square&logoColor=20b2aa"/>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://www.glimlang.org/">GlimLang</a> &nbsp;<a href="https://pypi.org/project/glimlang/">📦 PyPI</a></h3>
-      <p>Tiny programming language written in Python. Currently scaling with open-source community contributors.</p>
+      <h3><a href="https://www.glimlang.org/">GlimLang</a> &nbsp;<a href="https://pypi.org/project/glimlang/">📦 PyPI</a></h3>
+      <p>Lightweight programming language written in Python. Open-source and actively maintained with community contributors.</p>
       <img src="https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=20b2aa"/>
       <img src="https://img.shields.io/badge/PyPI-0d1b2a?style=flat-square&logo=pypi&logoColor=20b2aa"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🇩🇪 <a href="https://germancoach.vercel.app">TELC German A1–B1 Sprachcoach</a></h3>
-      <p>Open-source German learning app (A1–B1) with vocabulary, grammar, and gamified tracking.</p>
+      <h3><a href="https://germancoach.vercel.app">TELC German A1–B1 Sprachcoach</a></h3>
+      <p>Open-source German learning app with vocabulary, grammar exercises, and gamified progress tracking.</p>
       <img src="https://img.shields.io/badge/Next.js-0d1b2a?style=flat-square&logo=nextdotjs&logoColor=20b2aa"/>
       <img src="https://img.shields.io/badge/TypeScript-0d1b2a?style=flat-square&logo=typescript&logoColor=20b2aa"/>
       <img src="https://img.shields.io/badge/Tailwind-0d1b2a?style=flat-square&logo=tailwindcss&logoColor=20b2aa"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 URL Shortener</h3>
-      <p>URL shortener project built with Node.js backend.</p>
+      <h3>URL Shortener</h3>
+      <p>URL shortener service built with a Node.js backend.</p>
       <img src="https://img.shields.io/badge/Node.js-0d1b2a?style=flat-square&logo=node.js&logoColor=20b2aa"/>
     </td>
   </tr>
@@ -72,17 +64,17 @@ Currently learning German at **B1 level** and open to **Working Student and inte
 
 ---
 
-## ✨ Highlights
+## Highlights
 
-- Built multiple web applications using modern JavaScript and Python stacks
-- Developed custom WordPress plugins for ecommerce and business workflows
+- Built **Insight-Eye**, a real-time eyesight assessment system using computer vision and NLP — 🏆 **2nd place** in FYP evaluation
+- Created **GlimLang**, a lightweight programming language for learning and open-source experimentation
+- Developed multiple web applications using modern JavaScript and Python stacks
+- Built custom WordPress plugins for ecommerce and business workflows
 - Worked on SaaS-style products, backend systems, and frontend interfaces
-- Built **Insight Eye**, a computer vision eyesight assistant — 🏆 **2nd place** in FYP evaluation
-- Created **GlimLang**, a programming language project for learning and experimentation
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Site Reliability Engineering and AI infrastructure
 - Cloud, containers, and scalable backend systems
@@ -90,11 +82,11 @@ Currently learning German at **B1 level** and open to **Working Student and inte
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, JavaScript, TypeScript, C++, C#, PHP |
+| **Languages** | Python, JavaScript, TypeScript, C++, PHP |
 | **Frontend** | React.js, Next.js, Tailwind CSS |
 | **Backend** | Node.js, Express.js, NestJS, Flask |
 | **Databases** | MongoDB, PostgreSQL, MySQL |
@@ -104,7 +96,7 @@ Currently learning German at **B1 level** and open to **Working Student and inte
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <div align="center">
 
