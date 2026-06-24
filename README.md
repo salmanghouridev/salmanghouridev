@@ -18,16 +18,6 @@
 
 ---
 
-AI Reliability Engineer focused on scalable systems, backend development, and practical AI applications.
-
-I have **2+ years** of experience building web products with **Node.js, NestJS, Next.js, Python, and WordPress custom plugins**. My work spans backend systems, frontend applications, ecommerce platforms, and SRE infrastructure.
-
-Currently learning German at **B1 level** and open to **Working Student and internship opportunities in Germany**, especially in AI infrastructure and SRE-related roles.
-
-📧 **salmanghouridev@gmail.com**
-
----
-
 ## Projects
 
 <table>
