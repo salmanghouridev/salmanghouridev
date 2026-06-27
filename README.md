@@ -58,31 +58,25 @@
 
 - Built **Insight-Eye**, a real-time eyesight assessment system using computer vision and NLP — 🏆 **2nd place** in FYP evaluation
 - Created **GlimLang**, a lightweight programming language for learning and open-source experimentation
-- Developed multiple web applications using modern JavaScript and Python stacks
-- Built custom WordPress plugins for ecommerce and business workflows
-- Worked on SaaS-style products, backend systems, and frontend interfaces
-
 ---
 
 ## Current Focus
 
-- Site Reliability Engineering and AI infrastructure
 - Cloud, containers, and scalable backend systems
-- Software engineering opportunities in Germany 🇩🇪
-
+- AI in Deep
 ---
 
 ## Tech Stack
 
 | Category | Technologies |
 |----------|-------------|
-| **Languages** | Python, JavaScript, TypeScript, C++, PHP |
-| **Frontend** | React.js, Next.js, Tailwind CSS |
-| **Backend** | Node.js, Express.js, NestJS, Flask |
-| **Databases** | MongoDB, PostgreSQL, MySQL |
+| **Languages** | Python, TypeScript, C++ |
+| **Frontend** |  Next.js, Tailwind CSS |
+| **Backend** | NestJS, Flask |
+| **Databases** | MongoDB, PostgreSQL|
 | **AI / ML** | OpenCV, Scikit-Learn, NLP |
 | **Cloud / DevOps** | Docker, AWS |
-| **Tools** | Git, GitHub, Postman, Jira |
+| **Tools** | Git, Postman |
 
 ---
 
