@@ -35,20 +35,10 @@
       <img src="https://img.shields.io/badge/Python-0d1b2a?style=flat-square&logo=python&logoColor=20b2aa"/>
       <img src="https://img.shields.io/badge/PyPI-0d1b2a?style=flat-square&logo=pypi&logoColor=20b2aa"/>
     </td>
+     
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://germancoach.vercel.app">TELC German A1–B1 Sprachcoach</a></h3>
-      <p>Open-source German learning app with vocabulary, grammar exercises, and gamified progress tracking.</p>
-      <img src="https://img.shields.io/badge/Next.js-0d1b2a?style=flat-square&logo=nextdotjs&logoColor=20b2aa"/>
-      <img src="https://img.shields.io/badge/TypeScript-0d1b2a?style=flat-square&logo=typescript&logoColor=20b2aa"/>
-      <img src="https://img.shields.io/badge/Tailwind-0d1b2a?style=flat-square&logo=tailwindcss&logoColor=20b2aa"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>URL Shortener</h3>
-      <p>URL shortener service built with a Node.js backend.</p>
-      <img src="https://img.shields.io/badge/Node.js-0d1b2a?style=flat-square&logo=node.js&logoColor=20b2aa"/>
-    </td>
+    
+   
   </tr>
 </table>
 
